@@ -39,9 +39,14 @@
 
 | :snowflake:序号 :snowflake: | :sunny: 标题 :sunny: | :cloud:作者:cloud: | :umbrella:时间:umbrella: |
 | ------ | ------- | ----- | ------------ |
-| 0 | [Vps选购](./project/000.Vps选购.md) | goer | 2020.9.22 |
-| 1                           | [环境搭建](./project/001.环境搭建.md) | goer               | 2020.9.22                |
-| 2                           | [Docker搭建](./project/002.Docker搭建.md) | goer               | 2020.9.23                |
+| 0 | [Vps选购（找到一台适合你的服务器）](./project/000.Vps选购.md) | goer | 2020.9.22 |
+| 1                           | [环境搭建（搭建项目所需的环境）](./project/001.基础环境.md) | goer               | 2020.9.22                |
+| 2                           | [Docker搭建（安装docker和docker-compose）](./project/002.Docker搭建.md) | goer               | 2020.9.23                |
+| 3 | [Npm代理服务器(一个反向代理神器)](./project/003.Npm代理服务器.md) | goer | 2020.9.24 |
+| 4 | [Docker搭建](./project/002.Docker搭建.md) | goer | 2020.9.23 |
+| 5 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.22 |
+| 6 | [Docker搭建](./project/002.Docker搭建.md) | goer | 2020.9.23 |
+| 7 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.24 |
 
 欢迎[推荐](https://github.com/vgoer/HelloDocker/issues/new)项目成为 **HelloDocker** 的==贡献者==.
 
