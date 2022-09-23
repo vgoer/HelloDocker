@@ -43,7 +43,7 @@
 | 1                           | [环境搭建（搭建项目所需的环境）](./project/001.基础环境.md) | goer               | 2020.9.22                |
 | 2                           | [Docker搭建（安装docker和docker-compose）](./project/002.Docker搭建.md) | goer               | 2020.9.23                |
 | 3 | [Dashy(炫酷的服务器监控面板)](./project/004.Dashy炫酷监控面板.md) | goer | 2020.9.24 |
-| 4 | [Docker搭建](./project/002.Docker搭建.md) | goer | 2020.9.23 |
+| 4 | [LskyPro(typora+lsky+picgo打造你的完美图床)](./project/005.LskyPro图床.md) | goer | 2020.9.23 |
 | 5 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.22 |
 | 6 | [Docker搭建](./project/002.Docker搭建.md) | goer | 2020.9.23 |
 | 7 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.24 |
