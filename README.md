@@ -42,8 +42,9 @@
 | 0 | [Vps选购（找到一台适合你的服务器）](./project/000.Vps选购.md) | goer | 2020.9.22 |
 | 1                           | [环境搭建（搭建项目所需的环境）](./project/001.基础环境.md) | goer               | 2020.9.22                |
 | 2                           | [Docker搭建（安装docker和docker-compose）](./project/002.Docker搭建.md) | goer               | 2020.9.23                |
+| 3 | [Npm(Nginx Proxy Manager反向代理神器)](./project/004.Dashy炫酷监控面板.md) | goer | 2020.9.23 |
 | 3 | [Dashy(炫酷的服务器监控面板)](./project/004.Dashy炫酷监控面板.md) | goer | 2020.9.24 |
-| 4 | [LskyPro(typora+lsky+picgo打造你的完美图床)](./project/005.LskyPro图床.md) | goer | 2020.9.23 |
+| 4 | [LskyPro(typora+lsky+picgo打造你的完美图床)](./project/005.LskyPro图床.md) | goer | 2020.9.24 |
 | 5 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.22 |
 | 6 | [Docker搭建](./project/002.Docker搭建.md) | goer | 2020.9.23 |
 | 7 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.24 |
