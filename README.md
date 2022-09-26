@@ -46,11 +46,11 @@
 | 4 | [Dashy(炫酷的服务器监控面板)](./project/004.Dashy炫酷监控面板.md) | goer | 2020.9.24 |
 | 5 | [LskyPro(typora+lsky+picgo打造你的完美图床)](./project/005.LskyPro图床.md) | goer | 2020.9.24 |
 | 6 | [Wiki文档(最强大和扩展的开源Wiki)](./project/006.Wiki文档.md) | goer | 2020.9.24 |
-| 7 | [Umami工具(开源谷歌分析的替代品)](./project/007.Umami工具.md) | goer | 2020.9.23 |
-| 8 | [Trojan面板(多用户科学上网面板)](./project/008.Trojan面板.md) | goer | 2020.9.24 |
-| 9 | [Portainer容器面板(强大的容器管理面板)](./project/009.Portainer面板.md) | goer | 2020.9.23 |
-| 7 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.24 |
-| 7 | [Docker搭建](./project/002.Docker搭建.md) | goer | 2020.9.23 |
+| 7 | [Umami工具(开源谷歌分析的替代品)](./project/007.Umami工具.md) | goer | 2020.9.24 |
+| 8 | [Trojan面板(多用户科学上网面板)](./project/008.Trojan面板.md) | goer | 2020.9.25 |
+| 9 | [Portainer容器面板(强大的容器管理面板)](./project/009.Portainer面板.md) | goer | 2020.9.25 |
+| 10 | [Fireshare视频分享(分享你最精彩的视频)](./project/010.Fireshare视频分享.md) | goer | 2020.9.26 |
+| 11 | [Easyimage简单图床(压缩web格式图片的图床)](./project/002.Docker搭建.md) | goer | 2020.9.26 |
 | 7 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.24 |
 | 7 | [Docker搭建](./project/002.Docker搭建.md) | goer | 2020.9.23 |
 | 7 | [环境搭建](./project/001.基础环境.md) | goer | 2020.9.24 |
