@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://lypro.gggggu.com/i/2022/09/21/632aa69e504d3.png"/>
-  <br>中文 | <a href="README_en.md">English</a> | <a href="README_fr.md">Français</a> | <a href="README_ru.md">Русский</a> | <a href="README_jp.md">日本語</a> | <a href="README_ar.md">عربي</a>
+  <br><a href="README.md">中文</a> | <a href="README_en.md">English</a> | <a href="README_fr.md">Français</a> | <a href="README_ru.md">Русский</a> | <a href="README_jp.md">日本語</a> | <a href="README_ar.md">عربي</a>
   <br><strong>HelloDocker</strong>分享有趣的<b>docker项目。</b><br>让任何没有编程基础的人也能搭建属于自己的<b>服务</b>。
 </p>
 
